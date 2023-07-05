@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 
 
@@ -13,6 +13,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Ubuntu', sans-serif;
     
 }
 .relogio{
@@ -35,6 +36,6 @@ body{
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
-    
+
     border-radius: 5px;
 }
